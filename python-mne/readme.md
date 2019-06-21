@@ -1,1 +1,0 @@
-check out this repo https://github.com/alexrockhill/MEEGbuddy first
